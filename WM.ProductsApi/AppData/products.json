@@ -1,0 +1,16 @@
+[
+  {
+    "sku": "WM-001",
+    "title": "Widget v2",
+    "description": "Upd2323ated",
+    "buyerId": "49ec2a8703224eea9dec16b22546477e",
+    "active": true
+  },
+  {
+    "sku": "ABC-001",
+    "title": "Blue Widget (updated)",
+    "description": "Now deactivated",
+    "buyerId": "49ec2a8703224eea9dec16b22546477e",
+    "active": false
+  }
+]
